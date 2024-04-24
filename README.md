@@ -1,5 +1,5 @@
-## Author 
+### Author 
 Emil Erasmus
 
-## Description
+### Description
 This is for practising git integration with Dreamweaver.
