@@ -2,4 +2,5 @@
 Emil Erasmus
 
 ### Description
-This is for practising git integration with Dreamweaver.
+This is the feature branch. The description has changed.
+
